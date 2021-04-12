@@ -174,4 +174,3 @@ if __name__ == '__main__':
     
     trader = Trader(train_filename = args.training, test_filename = args.testing, output_filename = args.output)
     trader.main()
-    
